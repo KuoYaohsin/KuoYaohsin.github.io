@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Das Rheingold</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://github.com/kuoyaohsin/"/>
+  <updated>2018-01-13T05:42:36.044Z</updated>
+  <id>http://github.com/kuoyaohsin/</id>
+  
+  <author>
+    <name>Kuo Yaohsin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fail</title>
+    <link href="http://github.com/kuoyaohsin/2018/01/13/Fail/"/>
+    <id>http://github.com/kuoyaohsin/2018/01/13/Fail/</id>
+    <published>2018-01-13T05:22:52.372Z</published>
+    <updated>2018-01-13T05:42:36.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>It’s complicated to tell why people would create an unreasonable crush to another.When I was at a very young age I have already realized that ,about a kind of astray mood.People all experienced this with no glad end as I did before.But this time ,I may have saw an angel with a halo right now,I told myself like this when I saw her at the first time after Friday’s course beside the backdoor of an ordinary building.Then a crush feeling mingled with fearing came to me.What I feared is based  on a selfish concern that if she is single or just broke up with a guy.But I realized that a man should never disturb a girl’s happiness if she is in a full felicity.Cease the waiting, and explore what arises, feel it completely, and let it go.May I talk to you? If you nod and smile at me.</p><p>To follow a person is to follow a lifestyle.I’ve learnt so much from a good girl’s distinct perspective and cool lifestyle for being a swag girl.( That whether or not she got a boyfriend is another story. )To fail is to let something go,maybe a kind of literally unreasonable mood or a crush.I remember what Steward-Man told Bruce Wayne when I first saw the movie Dark Knight Rises,I’m afraid you want to fail,which is too hard to understand for years.But theses days I’ve learnt a lot as I said above.It is like turning the light on in a darkened room, and the illumination is a sudden enlightenment.She is the illumination indeed.But I’m afraid that any crush would fade at the end like what happened a couple times long time ago and the point is that I can’t figure out whether it is my will or just a natural phenomenon like sun rises and sun sets.I’m afraid I want to fail and to fail is to escape from reality not only let go.</p><a id="more"></a><p>Whatever, too hard?I am willing to have a try and I will do the best to live each day worthy of myself. And I can wait.Wait for the time, the right chance.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;It’s complicated to tell why people would create an unreasonable crush to another.When I was at a very young age I have already realized that ,about a kind of astray mood.People all experienced this with no glad end as I did before.But this time ,I may have saw an angel with a halo right now,I told myself like this when I saw her at the first time after Friday’s course beside the backdoor of an ordinary building.Then a crush feeling mingled with fearing came to me.What I feared is based  on a selfish concern that if she is single or just broke up with a guy.But I realized that a man should never disturb a girl’s happiness if she is in a full felicity.Cease the waiting, and explore what arises, feel it completely, and let it go.May I talk to you? If you nod and smile at me.&lt;/p&gt;
+&lt;p&gt;To follow a person is to follow a lifestyle.I’ve learnt so much from a good girl’s distinct perspective and cool lifestyle for being a swag girl.( That whether or not she got a boyfriend is another story. )To fail is to let something go,maybe a kind of literally unreasonable mood or a crush.I remember what Steward-Man told Bruce Wayne when I first saw the movie Dark Knight Rises,I’m afraid you want to fail,which is too hard to understand for years.But theses days I’ve learnt a lot as I said above.It is like turning the light on in a darkened room, and the illumination is a sudden enlightenment.She is the illumination indeed.But I’m afraid that any crush would fade at the end like what happened a couple times long time ago and the point is that I can’t figure out whether it is my will or just a natural phenomenon like sun rises and sun sets.I’m afraid I want to fail and to fail is to escape from reality not only let go.&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>For test</title>
+    <link href="http://github.com/kuoyaohsin/2018/01/13/for-test/"/>
+    <id>http://github.com/kuoyaohsin/2018/01/13/for-test/</id>
+    <published>2018-01-13T05:10:44.281Z</published>
+    <updated>2017-11-13T11:27:46.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><p><img src="http://ww3.sinaimg.cn/large/6aee7dbbjw1eqft66xcg3j21kw12mdub.jpg"></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ww3.sinaimg.cn/large/6aee7dbbjw1eqft66xcg3j21kw12mdub.jpg&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
