@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Das Rheingold</title>
   
-  
+  <subtitle>莱茵的黄金</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-05-03T14:32:11.549Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://github.com/mediumlobster/"/>
+  <updated>2020-05-03T15:26:49.081Z</updated>
+  <id>http://github.com/mediumlobster/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>mediumLobster</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>tell me more</title>
-    <link href="http://yoursite.com/2020/05/03/tell-me-more/"/>
-    <id>http://yoursite.com/2020/05/03/tell-me-more/</id>
+    <title>Tell me more</title>
+    <link href="http://github.com/mediumlobster/2020/05/03/Tell-me-more/"/>
+    <id>http://github.com/mediumlobster/2020/05/03/Tell-me-more/</id>
     <published>2020-05-03T14:30:20.000Z</published>
-    <updated>2020-05-03T14:32:11.549Z</updated>
+    <updated>2020-05-03T15:26:49.081Z</updated>
     
-    <content type="html"><![CDATA[<p>先在cmd命令中输入E： 如果你的文件在其他盘就输入其他的盘。现在进入E盘了。再输入cd my software\photoshop cs6\Photoshop CS6。注意，cd后有一个空格，文件夹的大小写也要注意。这个步骤也可以分开打，如cd my software回车，cd photoshop cs6回车,cd Photoshop CS6回车。<br>最后输入start Photoshop.exe回车文件就打开了。<br>　　Windows 命令提示符（cmd.exe）是 Windows NT 下的一个用于运行 Windows 控制面板程序或某些 DOS 程序的shell程序；或在 Windows CE 下只用于运行控制面板程序的外壳程序。</p>]]></content>
+    <content type="html"><![CDATA[<p>It’s complicated to tell why people would create an unreasonable crush to another.When I was at a very young age I have already realized that ,about a kind of astray mood.People all experienced this with no glad end as I did before.But this time ,I may have saw an angel with a halo right now,I told myself like this when I saw her at the first time after Friday’s course beside the backdoor of an ordinary building.Then a crush feeling mingled with fearing came to me.What I feared is based on a selfish concern that if she is single or just broke up with a guy.But I realized that a man should never disturb a girl’s happiness if she is in a full felicity.Cease the waiting, and explore what arises, feel it completely, and let it go.May I talk to you? If you nod and smile at me.</p><p>……To follow a person is to follow a lifestyle.I’ve learnt so much from a good girl’s distinct perspective and cool lifestyle for being a swag girl.( That whether or not she got a boyfriend is another story. )To fail is to let something go,maybe a kind of literally unreasonable mood or a crush.I remember what Steward-Man told Bruce Wayne when I first saw the movie Dark Knight Rises,I’m afraid you want to fail,which is too hard to understand for years.But theses days I’ve learnt a lot as I said above.It is like turning the light on in a darkened room, and the illumination is a sudden enlightenment.She is the illumination indeed.But I’m afraid that any crush would fade at the end like what happened a couple times long time ago and the point is that I can’t figure out whether it is my will or just a natural phenomenon like sun rises and sun sets.I’m afraid I want to fail and to fail is to escape from reality not only let go.</p><p>Whatever, too hard?I am willing to have a try and I will do the best to live each day worthy of myself. And I can wait.Wait for the time, the right chance.</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;先在cmd命令中输入E： 如果你的文件在其他盘就输入其他的盘。现在进入E盘了。再输入cd my software\photoshop cs6\Photoshop CS6。注意，cd后有一个空格，文件夹的大小写也要注意。这个步骤也可以分开打，如cd my software回车
-      
+      It’s complicated to tell why people would create an unreasonable crush to another.
     
     </summary>
     
     
+      <category term="默认分类" scheme="http://github.com/mediumlobster/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="FEELING" scheme="http://github.com/mediumlobster/tags/FEELING/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/03/hello-world/"/>
-    <id>http://yoursite.com/2020/05/03/hello-world/</id>
+    <link href="http://github.com/mediumlobster/2020/05/03/hello-world/"/>
+    <id>http://github.com/mediumlobster/2020/05/03/hello-world/</id>
     <published>2020-05-03T12:28:53.321Z</published>
     <updated>2020-05-03T12:28:53.321Z</updated>
     
