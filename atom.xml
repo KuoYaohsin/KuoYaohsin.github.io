@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://github.com/mediumlobster/"/>
-  <updated>2020-05-03T19:06:05.551Z</updated>
+  <updated>2020-05-04T05:43:33.837Z</updated>
   <id>http://github.com/mediumlobster/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SharX, a super screenshot tool.</title>
+    <link href="http://github.com/mediumlobster/2020/05/04/SharX-a-super-screenshot-tool/"/>
+    <id>http://github.com/mediumlobster/2020/05/04/SharX-a-super-screenshot-tool/</id>
+    <published>2020-05-04T05:40:17.000Z</published>
+    <updated>2020-05-04T05:43:33.837Z</updated>
+    
+    <content type="html"><![CDATA[<p>Screen capture, file sharing and productivity tool.<br><img src="https://i.imgur.com/7u86JIx.png"></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Screen capture, file sharing and productivity tool.&lt;br&gt;&lt;img src=&quot;https://i.imgur.com/7u86JIx.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Tool" scheme="http://github.com/mediumlobster/tags/Tool/"/>
+    
+  </entry>
   
   <entry>
     <title>For testing inserting a picture. O</title>
