@@ -204,11 +204,9 @@ body
 }body
 {
     font-family: 'sourcesanspro', 'Helvetica Neue', Arial, sans-serif;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 1.8;
-
     margin: 0;
-
     color: #000;
     background-color: #fff;
 }ul.nav,
@@ -305,11 +303,9 @@ video
     line-height: 1.4;
 }.home.post-list
 {
-    margin: 2em 0;
+    margin: 1em 0;
 }.home.post-list .post-list-item
 {
-    padding: 1em 0 2em;
-
     border-bottom: 1px solid #ddd;
 }.home.post-list .post-list-item:last-child
 {
@@ -363,10 +359,8 @@ video
     padding-top: 1em;
 }.post-block .post-title
 {
-    font-size: 2.5em;;
-
-    margin: 0.5em 0;
-
+    font-size: 2em;
+    margin: 1.3em 0 0;
     color: #000;
 }.post-block .post-info
 {
@@ -719,12 +713,9 @@ pre .xml .cdata
 .paginator .next
 {
     font-size: 15px;
-
     display: inline-block;
-
-    margin-top: 20px;
+    margin-top: -70px;
     padding: 4px 20px;
-
     color: #fff;
     border-bottom: 4px solid #575757;
     border-radius: 10px;
@@ -759,6 +750,7 @@ pre .xml .cdata
     body{text-align: center;}
 ;
     margin: 0 auto;
+    margin-bottom: 90px;
 }@media screen and (min-width: 800px)
 {
     .wrap
@@ -768,7 +760,8 @@ pre .xml .cdata
         margin: 0 auto;
     }header
     {
-        padding: 20px 100px;
+        padding: 0px 100px;
+        margin-top: 40px;
     }
 }@media screen and (max-width: 700px)
 {
@@ -795,8 +788,8 @@ pre .xml .cdata
     .home.post-list,
     .archive
     {
-        margin-left: 15px;
-        margin-right: 15px;
+        margin-left: 10px;
+        margin-right: 10px;
     }.archive .post-item
     {
         padding-left: 20px;
