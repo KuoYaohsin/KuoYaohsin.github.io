@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://github.com/mediumlobster/"/>
-  <updated>2020-05-04T13:04:18.336Z</updated>
+  <updated>2020-05-05T07:13:44.369Z</updated>
   <id>http://github.com/mediumlobster/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Two pictures</title>
+    <link href="http://github.com/mediumlobster/2020/05/04/Two-pictures/"/>
+    <id>http://github.com/mediumlobster/2020/05/04/Two-pictures/</id>
+    <published>2020-05-04T13:20:52.000Z</published>
+    <updated>2020-05-05T07:13:44.369Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://i.vgy.me/uYqs3e.png" alt=""><br><img src="https://i.vgy.me/fEkrlv.png" alt=""></p><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://i.vgy.me/uYqs3e.png&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://i.vgy.me/fEkrlv.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="TEST" scheme="http://github.com/mediumlobster/tags/TEST/"/>
+    
+      <category term="FILM" scheme="http://github.com/mediumlobster/tags/FILM/"/>
+    
+  </entry>
   
   <entry>
     <title>Westworld Season 3 Finale</title>
